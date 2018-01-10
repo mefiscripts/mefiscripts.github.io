@@ -4,3 +4,6 @@ description: Community-built scripts for customizing your experience of MetaFilt
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-redirect-from
