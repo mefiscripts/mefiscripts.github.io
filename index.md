@@ -1,8 +1,3 @@
 ---
-layout: page
+redirect_to: "https://mefiscripts.github.io/mefiscripts/"
 ---
-
-<h2>Redirecting…</h2>
-<script>
-     window.location.replace('https://mefiscripts.github.io/mefiscripts');
-</script>
